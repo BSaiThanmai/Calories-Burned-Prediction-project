@@ -1,0 +1,9 @@
+open the folder  and type cmd 
+1. python (tab)requirement.txt
+2.pip install -r (tab) requirement.txt
+installation occurs
+3.python -m pip install --upgrade pip
+installation occurs
+4.pip install protobuf==3.20.0
+installation occurs
+5.
